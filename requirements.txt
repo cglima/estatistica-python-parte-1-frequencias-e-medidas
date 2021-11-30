@@ -5,3 +5,5 @@ numpy
 seaborn
 scipy
 jupyterlab
+jupyterlab-git
+jupyterlab_github
