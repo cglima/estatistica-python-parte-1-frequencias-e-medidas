@@ -1,2 +1,6 @@
 jupyter
 pytest
+pandas
+numpy
+seaborn
+scipy
